@@ -1,0 +1,11 @@
+name: nickel-reduce
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - matplotlib
+  - astropy>=5.3
+  - jupyter
+  - notebook
+  - astroquery
+  - scipy
