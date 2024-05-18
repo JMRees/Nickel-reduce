@@ -10,3 +10,4 @@ dependencies:
   - astroquery
   - scipy
   - tqdm
+  - ipywidgets
